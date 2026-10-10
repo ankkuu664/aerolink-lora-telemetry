@@ -157,5 +157,6 @@ Current Limitations
 The current implementation focuses on basic telemetry reception, RSSI monitoring, OLED updates, and stop-command transmission. Reliable command delivery, acknowledgements, authentication, and fail-safe behavior require additional development and testing.
 
 The project is an experimental embedded communication system, not a safety-certified emergency-stop or flight-control system.
+
 Conclusion
 AeroLink is a practical project through which I explored wireless telemetry and embedded hardware integration. It combines a Raspberry Pi Pico, LoRa communication, an OLED display, and a physical input to create a compact monitoring and command system.
